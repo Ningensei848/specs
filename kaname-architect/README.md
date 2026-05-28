@@ -1,8 +1,12 @@
-# 🛡️ kaname (自律型サイバーセキュリティナレッジオーケストレーター)
+# 🛡️ kaname 
+
+> [!IMPORTANT]
+> **自律型サイバーセキュリティナレッジオーケストレーター**
 
 本ディレクトリは、日本のサイバーセキュリティ関連組織の動向を一元管理されたSSoT（Single Source of Truth）から自律的にクローリングし、LLMを活用して構造化された「LLM Wiki（Obsidian Vault）」を自動構築・デプロイ・通知する、自律型ナレッジオーケストレーションプラットフォーム `kaname` の完全な仕様書パッケージです。
 
-Inspired by [karpathy/llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+> [!TIP]
+> Inspired by [karpathy/llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 仕様駆動開発（SDD: Spec Driven Development）に基づき、システム全体のアーキテクチャ、自律エージェントの思考境界、セキュリティ監査、物理データモデル、および検証可能なタスクリストが1対1で整合するよう厳密に設計されています。
 
