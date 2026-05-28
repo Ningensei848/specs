@@ -37,7 +37,6 @@ graph TD
     
     D -- クローリング致命的エラー --> P[GitHub MCP経由でGitHub Issueを起票]
     P --> Q[GitHubプラットフォームによる電子メール自動通知]
-
 ```
 
 
